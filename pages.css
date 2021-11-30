@@ -109,7 +109,7 @@
 /*base*/
 body{
   height: 100%;
-  width: 100%;
+  width: 100vw;
   margin: 0px;
   padding: 0px;
 }
@@ -121,7 +121,7 @@ h2{
   font-size: 30px;
 }
 h3{
-  font-size: 26px;
+  font-size: 24px;
 }
 p{
   font-family: serif;
@@ -243,5 +243,4 @@ tr:nth-child(2n){
 }
 #page div:not(.sectionchange) div{
   margin: 0px;
-  height: auto;
 }
