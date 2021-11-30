@@ -137,7 +137,13 @@ a:visited{
 th{
   font-weight: 900;
 }
-/*label*/
+tr:nth-child(2n+1){
+  background-color: rgb(60,60,60);
+}
+tr:nth-child(2n){
+  background-color: rgb(80,80,80);
+}
+/*input*/
 #checkmenu{
   position: fixed;
   left:-5px;
@@ -212,6 +218,9 @@ th{
   display: grid;
   grid-template-rows: auto 50px;
 }
+.work{
+  color: rgb(60,60,60);
+}
 /*text*/
 .bigletter{
   font-size: 53px;
@@ -234,4 +243,5 @@ th{
 }
 #page div:not(.sectionchange) div{
   margin: 0px;
+  height: auto;
 }
