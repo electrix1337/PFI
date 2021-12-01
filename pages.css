@@ -239,7 +239,7 @@ tr:nth-child(2n){
   top: 50%;
   width: 70%;
   height: 1px;
-  background-color: rgb(50,50,50);
+  background-color: rgba(255,255,130,0.5);
 }
 #page div:not(.sectionchange) div{
   margin: 0px;
