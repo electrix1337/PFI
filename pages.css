@@ -169,7 +169,7 @@ tr:nth-child(2n){
   position: fixed;
 }
 /*open close menu*/
-.sidemenu{
+.sidemenu[src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ic_arrow_back_48px.svg/768px-Ic_arrow_back_48px.svg.png"]{
   position: fixed;
   left:-5px;
   top: calc(50vh - 32.5px);
