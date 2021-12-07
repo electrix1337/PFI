@@ -244,3 +244,7 @@ tr:nth-child(2n){
 #page div:not(.sectionchange) div{
   margin: 0px;
 }
+.fin{
+  height: 25px;
+  width: 100%;
+}
